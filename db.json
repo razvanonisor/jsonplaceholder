@@ -11,6 +11,12 @@
         "lat": 48.152726,
         "lng": 27.587914,
         "description": "<b>Test 53443 </b>"
+      },
+      {
+        "name": "Poi 3",
+        "lat": 47.252726,
+        "lng": 27.587914,
+        "description": "<b>Test 53443 </b>"
       }
   ],
   "posts": [
